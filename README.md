@@ -17,7 +17,7 @@ See [Contoso Insurance Documentation](https://azure-samples.github.io/ContosoIns
 
 A demo walk-through was presented at [Microsoft Ignite](https://ignite.microsoft.com), see the video [Understand the future of software development in the cloud with the Azure Application Platform](https://channel9.msdn.com/Events/Ignite/2016/BRK2085-TS)
 
-https://channel9.msdn.com/Events/Ignite/2016/BRK2085-TS 
+[![Watch the video](https://channel9.msdn.com/Events/Ignite/2016/BRK2085-TS)
 
 <iframe src="https://channel9.msdn.com/Events/Ignite/2016/BRK2085-TS/player" width="960" height="540" allowFullScreen frameBorder="0"></iframe>
 
@@ -27,8 +27,9 @@ See [License](LICENSE.txt)
 
 https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/29842302 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY) 
-[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+// [![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
 
 I combine Alexandre Jasmin and Gab Le Roux answers like this:
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+// [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 https://github.com/aloisdg/CountPages/blob/master/README.md#demo
+

@@ -19,6 +19,8 @@ A demo walk-through was presented at [Microsoft Ignite](https://ignite.microsoft
 
 https://channel9.msdn.com/Events/Ignite/2016/BRK2085-TS 
 
+<iframe src="https://channel9.msdn.com/Events/Ignite/2016/BRK2085-TS/player" width="960" height="540" allowFullScreen frameBorder="0"></iframe>
+
 ## Disclaimer
 
 See [License](LICENSE.txt)
